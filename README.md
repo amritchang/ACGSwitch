@@ -36,7 +36,7 @@ github "amritchang/ACGSwitch"
 2. Congratulations!  
 
 ## Usage example
-
+```swift
 import UIKit
 import ACGSwitch
 
@@ -60,6 +60,7 @@ class ViewController: UIViewController {
 
 
 }
+```
 
 ## Contribute
 

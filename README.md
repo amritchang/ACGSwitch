@@ -72,7 +72,7 @@ amritchang@gmail.com
 
 ACGSwitch is available under the MIT license. See the LICENSE file for more info.
 
-Copyright (c) 2019 sarojraut09@gmail.com 
+Copyright (c) 2020 amritchang@gmail.com 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

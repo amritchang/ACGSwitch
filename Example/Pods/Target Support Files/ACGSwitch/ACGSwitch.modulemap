@@ -1,0 +1,6 @@
+framework module ACGSwitch {
+  umbrella header "ACGSwitch-umbrella.h"
+
+  export *
+  module * { export * }
+}
